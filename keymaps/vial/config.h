@@ -7,8 +7,6 @@
 #define VIAL_UNLOCK_COMBO_ROWS {6, 6}
 #define VIAL_UNLOCK_COMBO_COLS {3, 1}
 
-#define NO_MUSIC_MODE
-
 //#define MASTER_LEFT
 #define MASTER_RIGHT
 

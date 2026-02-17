@@ -3,11 +3,14 @@
 #define DEBOUNCE 3
 //comment debounce or increase >3 if you are experiencing key chatter
 
+#define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_RGB
+
 #define SERIAL_USART_FULL_DUPLEX   // Enable full duplex operation mode.
 #define SERIAL_USART_TX_PIN D3     // USART TX pin
 #define SERIAL_USART_RX_PIN D2     // USART RX pin
 
 #define OLED_FONT_H "keyboards/sune/rhymestone/glcdfont.c"
+
 
 #define ENABLE_RGB_MATRIX_SOLID_REACTIVE_MULTIWIDE
 #define ENABLE_RGB_MATRIX_SOLID_REACTIVE_MULTICROSS
