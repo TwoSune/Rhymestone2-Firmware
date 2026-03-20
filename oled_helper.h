@@ -2,6 +2,7 @@
 
 #include <stdint.h>
 #include "action.h"
+#include "quantum.h"
 
 #ifdef OLED_ENABLE
 

@@ -2,7 +2,7 @@
   "name": "Rhymestone",
   "vendorId": "0x0448",
   "productId": "0x0448",
-  "lighting": "qmk_rgblight",
+  "lighting": "vialrgb",
   "matrix": {
     "rows": 8,
     "cols": 9

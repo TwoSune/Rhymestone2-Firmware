@@ -7,8 +7,8 @@
 #define VIAL_UNLOCK_COMBO_ROWS {6, 6}
 #define VIAL_UNLOCK_COMBO_COLS {3, 1}
 
-//#define MASTER_LEFT
-#define MASTER_RIGHT
+#define MASTER_LEFT
+//#define MASTER_RIGHT
 
 #define SPLIT_WATCHDOG_ENABLE
 #define SPLIT_USB_DETECT
